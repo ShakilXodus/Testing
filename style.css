@@ -1,0 +1,17 @@
+.disect{
+    border: 5px solid maroon;
+    border-radius: 1cm;
+    margin: 40px;
+    padding: 20px 50px;
+    height: 150px;
+    width: 30%;
+    float: left;
+
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+
